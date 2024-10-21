@@ -36,7 +36,7 @@ fruits.remove('orange')
 ["apple", "banana", "grape", "strawberry"]
 ```
 
-### The `pop()` Method
+### The `pop()` Method (with and without using index numbers)
 - The `pop()` method removes the last element from a list
 - You can remove an element from any position in the list if you use the `pop()` method with 
 an index number
