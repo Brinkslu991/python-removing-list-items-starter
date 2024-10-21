@@ -37,4 +37,5 @@
 #### Task 5
 
 - Use the `clear()` method to clear the remaining elements from your list
+- Don't know how to use the `clear()` method with a Python list?  [Check out this example!](https://www.w3schools.com/python/trypython.asp?filename=demo_ref_list_clear)
 - Print the cleared list (Python should just show you an empty list, which looks like `[ ]` on your screen)
