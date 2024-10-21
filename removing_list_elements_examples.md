@@ -68,4 +68,20 @@ print(f'The state just deleted from the states list was: {deleted_state}')
 
 # Output
 The state just deleted from the states list was: Minnesota
+
+
+# Example 3
+# Sample list of movie titles
+movies = ["Inception", "The Matrix", "Interstellar", "The Dark Knight", "Parasite"]
+
+# Index of the movie to remove
+index_to_remove = 1  # This will remove "The Matrix"
+
+# Remove the movie and store the movie's title if needed
+removed_movie = movies.pop(index_to_remove)
+
+# Display the modified list and the removed movie using f-strings
+print(f"Modified Movie List: {movies}")         # Output: ["Inception", "Interstellar", "The Dark Knight", "Parasite"]
+print(f"Removed Movie: {removed_movie}")        # Output: "The Matrix"
+
 ```
