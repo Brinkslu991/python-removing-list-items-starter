@@ -37,7 +37,7 @@
 ### Part 2
 
 - Complete these programming tasks
-- Use a Python comment to label each task in your script, e.g. # Favorites, # The pop( ) Method, etc.
+- Use a Python comment to label each task in your script, e.g. # Changing Guest List and # Shrinking Guest List
 
 #### Changing Guest List
 
