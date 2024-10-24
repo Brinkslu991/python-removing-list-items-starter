@@ -60,4 +60,4 @@ only have space for two guests.
 - Then print a message to the two people still on your list, letting them know they're still invited
 - Then use the keyword `del` to remove the last two names from your list so that you have an empty list
 - At the end of your script, print your list to make sure you actually have an empty list
-- 
+
