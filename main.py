@@ -32,3 +32,4 @@ del people[0]
 del people[0]
 
 print(people)
+print('There are no more people')
